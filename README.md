@@ -24,7 +24,7 @@ AI-first Full Stack Developer with founder-level ownership and real-world experi
 **Database:** PostgreSQL, Supabase  
 **Payments:** Stripe (Checkout concepts, billing flows, webhooks), PayTR, Iyzico
 **AI-first workflow:** AI-assisted development, rapid iteration, prompt systems  
-**Web3 (project-based):** Solana & MultiversX ecosystems familiarity, token/NFT concepts, Smart Contracts  
+**Web3 (project-based):** Blockchain ecosystems familiarity, token/NFT concepts, Smart Contracts, dApps 
 
 ---
 
@@ -74,6 +74,61 @@ Delivered high-quality client work with a focus on consistency and speed.
 **Contributions**
 - Built repeatable delivery workflows to increase output quality and speed
 - Combined design + engineering to deliver clean, client-ready results
+
+---
+## 🧰 Skills
+
+### ✅ AI-first Product Engineering
+- AI-assisted development workflows (rapid prototyping, debugging, refactoring, documentation)
+- Prompt engineering for consistent outputs (structured prompts, reusable templates, iteration loops)
+- Building product pipelines around AI tooling (quality control, repeatability, versioning mindset)
+
+### ✅ Frontend (Web)
+- React, Next.js
+- Component-driven UI architecture
+- Responsive UI implementation (mobile-first)
+- Performance basics (render optimization, bundle awareness, page speed)
+- SEO implementation (metadata, structure, indexing-friendly pages)
+- UX-focused UI delivery (conversion, clarity, onboarding flows)
+
+### ✅ Backend (APIs & Systems)
+- Node.js (JavaScript)
+- REST API design and implementation
+- Auth flows (sessions/JWT concepts), role-based access control
+- Webhooks (Stripe/webhook-driven event handling)
+- Integrations with third-party services
+- Building admin panels & internal tools for operations
+
+### ✅ Databases & Data Modeling
+- PostgreSQL
+- Supabase (DB + auth + storage concepts)
+- Schema design for business workflows (orders, users, payments, logs)
+- CRUD systems + data validation mindset
+
+### ✅ Payments & Monetization
+- Stripe concepts: Checkout, billing flows, subscriptions, webhooks
+- Marketplace-style payments awareness (Stripe Connect concepts)
+- Pricing & packaging collaboration (feature-based tiers, credit-based systems)
+- Revenue workflow thinking (refund logic, cancellations, deposits)
+
+### ✅ DevOps / Deployment (Practical)
+- Deploying web apps and managing environments (VPS / cloud basics)
+- Domain, DNS, SSL basics
+- Logging mindset, production troubleshooting
+- Release iteration and quick fixes under real-world constraints
+
+### ✅ Web3 (Project-based)
+- Solana ecosystem familiarity
+- Token economy design (fee redistribution / non-inflationary reward thinking)
+- NFT mechanics concepts (ownership, rarity, in-game assets)
+- Game-related on-chain/off-chain system design thinking
+
+### ✅ Product, Growth & Operations (Hands-on)
+- Founder-level delivery and ownership
+- MVP planning → iteration cycles
+- Customer onboarding improvement (reducing friction)
+- SEO content strategy for product pages (long-form + intent targeting)
+- B2B positioning, objection handling, messaging
 
 ---
 
