@@ -1,112 +1,89 @@
-# Halil İbrahim CAN
-**AI-first Full Stack Developer • Founder-minded Product Builder**
+<div align="center">
 
-📍 Türkiye / UK (Remote-friendly)  
-📧 **halilcandev@gmail.com**  
-🔗 GitHub: **[@marcopashatr](https://github.com/marcopashatr)**  
-🔗 LinkedIn: **https://linkedin.com/in/hcan**
+# Halil İbrahim CAN  
+### AI-first Full Stack Developer • Founder-minded Product Builder
 
----
+[![Email](https://img.shields.io/badge/Email-halilcandev%40gmail.com-informational?style=flat&logo=gmail)](mailto:halilcandev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-marcopashatr-black?style=flat&logo=github)](https://github.com/marcopashatr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hcan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hcan)
 
-## Summary
-AI-first Full Stack Developer with founder-level ownership and real-world experience building and improving production products across **SaaS, B2B platforms, payments, and Web3-enabled systems**. Strong at shipping end-to-end features—**frontend, backend, database, and integrations**—with a practical focus on performance, usability, and business impact. Comfortable working in fast-moving environments, learning quickly, and turning unclear requirements into reliable delivery.
+📍 Türkiye / UK — Remote-friendly
 
----
-
-## Technical Skills
-### Frontend
-- React, Next.js
-- UI implementation, responsive layouts, component-based architecture
-- SEO fundamentals, performance optimization
-
-### Backend
-- Node.js (JavaScript), REST APIs
-- Authentication, role-based access control
-- Webhooks & third-party integrations
-
-### Databases
-- PostgreSQL, Supabase
-- Data modeling, structured CRUD systems
-
-### Payments & Billing
-- Stripe (Checkout, subscriptions concepts, webhooks)
-- Payment flows, pricing & packaging support
-
-### AI-first Development
-- Using AI tools to accelerate development, debugging, and documentation
-- Building structured prompts and reusable workflows for content and product delivery
-
-### Web3 (Project-based)
-- Solana ecosystem familiarity
-- Token economy design (non-inflationary rewards, fee redistribution)
-- NFT system concepts (game assets / planets)
+</div>
 
 ---
 
-## Experience & Projects
+## 👤 Profile
+AI-first Full Stack Developer with founder-level ownership and real-world experience building and improving products across **SaaS, B2B platforms, payments, and Web3-enabled systems**. Strong at shipping end-to-end features—**frontend, backend, database, and integrations**—with a practical focus on reliability, usability, and business outcomes. Comfortable working in fast-moving environments, learning quickly, and turning unclear requirements into execution.
 
-### TableGo (UK) — Restaurant Booking & Management SaaS  
-**Co-Founder / Full Stack Product Builder**  
-Built and improved a restaurant-focused platform with core operational features:
-- Online reservations and table management workflows  
+---
+
+## 🧰 Tech Stack
+**Frontend:** React, Next.js  
+**Backend:** Node.js (JavaScript), REST APIs, Webhooks  
+**Database:** PostgreSQL, Supabase  
+**Payments:** Stripe (Checkout concepts, billing flows, webhooks), PayTR, Iyzico
+**AI-first workflow:** AI-assisted development, rapid iteration, prompt systems  
+**Web3 (project-based):** Solana & MultiversX ecosystems familiarity, token/NFT concepts, Smart Contracts  
+
+---
+
+## ✅ What I’m Good At
+- Building full products end-to-end (UI → API → DB → integrations)
+- Turning unclear requirements into shippable features
+- Improving onboarding, setup flow, and product usability
+- Designing scalable structures without overengineering
+- Working with AI tools to increase speed and quality
+
+---
+
+## 💼 Experience & Projects
+
+### 🚀 TableGo (UK) — Restaurant Booking & Management SaaS  
+**Full Stack Product Builder**  
+🔗 https://tablego.uk | 🔗 https://business.tablego.uk
+
+Restaurant platform focused on operational efficiency and conversions.
+
+**Core areas worked on**
+- Online reservations & table management workflows  
 - Deposits / prepaid booking flows  
 - Gift vouchers support  
-- Marketing messaging / communication concepts  
+- Marketing / communications concepts  
 
-**What I worked on**
-- Product implementation and iteration across frontend + backend
-- Improving onboarding and reducing setup friction for venues
-- Payments-related integration planning and operational workflows
-- Supporting go-to-market positioning (value propositions, competitor comparisons)
+**Contributions**
+- Shipped and improved product features across frontend + backend
+- Reduced setup friction by iterating onboarding and configuration flows
+- Supported payment-related integration planning and operational workflows
+- Assisted positioning vs competitors (features, value propositions, packaging)
 
 ---
 
-### Compera Digital — Web Development, Branding & Print Services  
-**Founder / Full Stack Developer**  
-Delivered end-to-end client solutions with a focus on reliability and presentation quality:
+### 🧩 Compera Digital (UK) — Web Development, Branding & Print  
+**Full Stack Developer / Product Owner**  
+🔗 https://compera.co.uk
+
+Delivered high-quality client work with a focus on consistency and speed.
+
+**Delivered**
 - Websites (design + development)
 - Menu design workflows and structured content templates
 - Branding assets and marketing materials
 - Hosting, maintenance, and ongoing improvements
 
-**What I did**
-- Built repeatable delivery workflows to ship faster without sacrificing quality
-- Balanced design + engineering for consistent, client-ready output
+**Contributions**
+- Built repeatable delivery workflows to increase output quality and speed
+- Combined design + engineering to deliver clean, client-ready results
 
 ---
 
-### Cyber Network — Browser-based Strategy Game (Web3-enabled concept)  
-**Founder / Systems & Product Design + Engineering Direction**  
-Designing a strategy game inspired by OGame with deep economy and combat systems.
-- Multi-galaxy gameplay, ships, defenses, resources
-- Token economy designed around **revenue redistribution** (non-inflationary rewards model)
-- Structured GDD and system specs for AI-assisted development workflows
-
----
-
-### Solantra — Solana-based MMO Strategy Concept  
-**Product & Systems Design**  
-- Planet NFTs, resources as tokens, simplified visuals
-- Focused on scalable mechanics and long-term economy structure
-
----
-
-## Strengths Recruiters Care About
-- **End-to-end ownership:** UI → API → database → deployment mindset  
-- **Practical product thinking:** shipping what matters, not overbuilding  
-- **AI-first workflow:** faster delivery, better iteration, better documentation  
-- **Adaptability:** can step into unclear problems and turn them into execution  
-- **Founder experience:** understands impact, cost, and outcomes—not just tasks  
-
----
-
-## Languages
+## 🌍 Languages
 - Turkish: Native  
 - English: Professional working proficiency  
 
 ---
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/marcopashatr  
 - LinkedIn: https://linkedin.com/in/hcan  
 - Email: halilcandev@gmail.com
