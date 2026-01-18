@@ -9,7 +9,7 @@
 
 📍 Türkiye / UK — Remote-friendly
 
-
+</div>
 
 ---
 
@@ -143,4 +143,4 @@ Delivered high-quality client work with a focus on consistency and speed.
 - LinkedIn: https://linkedin.com/in/hcan  
 - Email: halilcandev@gmail.com
 
-</div>
+
